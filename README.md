@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello, I'm Alexander 👋
+
+I am currently...
+- 🎓 Finishing my Master's degree at MBSTU
+- 👨‍💻 Looking for a job as MLE or Data Analyst
+- ⚽ Interested in analyzing sports data (mostly soccer and basketball)
+
+I also ...
+- Worked as DA/DS at JetBrains
+- Reached [Level 6](https://projecteuler.net/profile/AL-Kost.png) on Project Euler
+- In the 2020/2021 football season, finished in the top 0.5% of players participating in the official English Premier League Fantasy
 
 <!--
 **AL-Kost/AL-Kost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
