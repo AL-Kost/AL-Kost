@@ -6,7 +6,7 @@ I am currently...
 - ⚽ Interested in analyzing sports data (mostly soccer and basketball)
 
 I also ...
-- Currently working as DA/DS at JetBrains
+- Worked as DA/DS at JetBrains
 - Reached [Level 6](https://projecteuler.net/profile/AL-Kost.png) on Project Euler
 - In the 2020/2021 football season, finished in the top 0.5% of players participating in the official English Premier League Fantasy
 
