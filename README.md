@@ -2,7 +2,7 @@
 
 I am currently...
 - 🎓 Finishing my Master's degree at MBSTU
-- 👨‍💻 Looking for a job as MLE or Data Analyst
+- 👨‍💻 Working as Data Scientist at Qiwi
 - ⚽ Interested in analyzing sports data (mostly soccer and basketball)
 
 I also ...
