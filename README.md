@@ -1,8 +1,7 @@
 ### Hello, I'm Alexander 👋
 
 I am currently...
-- 🎓 Finishing my Master's degree at MBSTU
-- 👨‍💻 Working as Data Scientist at Qiwi
+- 👨‍💻 Data Scientist at QIWI
 - ⚽ Interested in analyzing sports data (mostly soccer and basketball)
 
 I also ...
