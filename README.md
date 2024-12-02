@@ -24,11 +24,14 @@ My CV: [Alexander_Kostylev.pdf](https://drive.google.com/file/d/1ctFmQIxcKKxNk88
 
 <h2>💬 Get in touch</h2>
 Feel free to:
+
 - 📧 Shoot me an email at: a.kostylev.research@gmail.com
+
 - 🚀 Message me using Telegram: @AL_Kostylev
 <hr>
 
 <h2>🛠️ My fancy badge area</h2>
+
 [![My Skills](https://skillicons.dev/icons?i=py,go,rust,js,ts)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn)](https://skillicons.dev)
