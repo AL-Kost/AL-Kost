@@ -50,7 +50,7 @@ Feel free to:
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AL-Kost's streak" src="https://streak-stats.demolab.com/?user=AL-Kost&theme=monokai-metallian&hide_border=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://streak-stats.demolab.com/?user=AL-Kost&theme=monokai-metallian&hide_border=true" alt="Streak stats"/>
     </a>
   </p>
 
@@ -60,23 +60,13 @@ Feel free to:
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AL-Kost's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AL-Kost&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AL-Kost's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Kost&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-<br/>
-
-
-<h3>⚡ Recent GitHub Activity</h3>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AL-Kost&&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&theme=dracula&days=30&custom_title=Last%2030%20days%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-
-
-  <!--END_SECTION:activity-->
 
 <hr>
 
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/AL-Kost/AL-Kost/main/images/footer.svg" width="100%" alt="Footer">
+<img src="https://raw.githubusercontent.com/AL-Kost/AL-Kost/d5421d6c534a9ef4e26d83b7e91cb1b1aaa5adee/images/Bottom.svg" width="100%" alt="Footer">
 
 </p>
 
