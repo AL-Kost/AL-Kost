@@ -61,16 +61,6 @@ Feel free to:
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AL-Kost's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AL-Kost&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AL-Kost's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Kost&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#4583](https://github.com/hoppscotch/hoppscotch/pull/4583) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. 🗣 Commented on [#4580](https://github.com/hoppscotch/hoppscotch/issues/4580#issuecomment-2510704556) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-3. 🗣 Commented on [#4578](https://github.com/hoppscotch/hoppscotch/issues/4578#issuecomment-2508883336) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-4. 🗣 Commented on [#3610](https://github.com/hoppscotch/hoppscotch/issues/3610#issuecomment-2506497676) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-5. 🔒 Closed issue [#3610](https://github.com/hoppscotch/hoppscotch/issues/3610) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-<!--END_SECTION:activity-->
-
 <hr>
 
 
