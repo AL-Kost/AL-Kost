@@ -20,7 +20,6 @@ I also ...
 - In the 2020/2021 football season, finished in the top 0.5% of players participating in the official English Premier League Fantasy
 
 My CV: [Alexander_Kostylev.pdf](https://drive.google.com/file/d/1ctFmQIxcKKxNk88TLEBxtK-rKcG9r1__/view?usp=sharing)
-<hr>
 
 <h2>💬 Get in touch</h2>
 Feel free to:
@@ -28,7 +27,6 @@ Feel free to:
 - 📧 Shoot me an email at: a.kostylev.research@gmail.com
 
 - 🚀 Message me using Telegram: @AL_Kostylev
-<hr>
 
 <h2>🛠️ My fancy badge area</h2>
 
@@ -41,7 +39,6 @@ Feel free to:
 [![My Skills](https://skillicons.dev/icons?i=redis,postgres,sqlite,aws)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=git,kubernetes,docker,kafka,prometheus,grafana,githubactions)](https://skillicons.dev)
-<hr>
 
 <h2>📊 Stats and Activity</h2>
 
