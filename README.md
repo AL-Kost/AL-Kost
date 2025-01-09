@@ -19,7 +19,7 @@ I also ...
 - Reached [Level 6](https://projecteuler.net/profile/AL-Kost.png) on Project Euler
 - In the 2020/2021 football season, finished in the top 0.5% of players participating in the official English Premier League Fantasy
 
-My CV: [Alexander_Kostylev.pdf](https://drive.google.com/file/d/1ctFmQIxcKKxNk88TLEBxtK-rKcG9r1__/view?usp=sharing)
+My CV: [Alexander_Kostylev.pdf](https://drive.google.com/file/d/1QN9yA-pHpMb-sQ3NWyocDGYLW7DCZ5Pq/view)
 
 <h2>💬 Get in touch</h2>
 Feel free to:
